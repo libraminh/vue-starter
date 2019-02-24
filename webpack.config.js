@@ -13,7 +13,6 @@ var config = {
     path: path.join(__dirname, 'build'),
     filename: '[name].bundle.js'
   },
-  mode: 'production',
   module: {
     rules: [
       {
